@@ -1,6 +1,6 @@
 ## Advent of code 2024
 My solutions for the 2024 Advent of Code event. All solutions are written in Rust, and are of questionable quality since it's my first time using the language.
-The code is reasonably performant however and solves all problems in ~ 200 ms (see benchmarks below).
+The code is reasonably performant however and solves all problems in ~140 ms (see benchmarks below).
 
 ### Benchmarks
 Results from `./run.sh` using a 2024 M4 MacBook Pro (16GB)
